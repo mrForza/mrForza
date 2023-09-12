@@ -25,6 +25,7 @@
 
 Проект | Технологии | Ссылка | 
 --- | --- | --- | 
+yandex_mdb | Python, Django(DRF, ORM), Postman | https://github.com/mrForza/api_yamdb
 korovushkino_project | Python 3.6.2, Selenium, python-telegram-bot | https://github.com/mrForza/korovushkino_project | 
 homework_bot | Python 3.11, telegram-bot-api | https://github.com/mrForza/homework_bot
 weather_project | C#, CSV, Excel | https://github.com/mrForza/weather_project
