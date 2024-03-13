@@ -2,18 +2,7 @@
 <h3 align="center">Я начинающий Backend разработчик на Python</h3>
 
 <h3 align="left"><b>Мой стэк технологий:</b></h3>
-<p align="left">
-  <p>Python</p>
-  <p>FastAPI</p>
-  <p>Django (DRF, ORM)</p>
-  <p>SqlAlchemy</p>
-  <p>PostgreSQL</p>
-  <p>Docker</p>
-  <p>Linux</p>
-  <p>Nginx</p>
-  <p>Git</p>
-  <p>PostMan</p>
-  <p>Pytest</p>
+<p align="left">Python, FastAPI, Django (DRF, ORM), SqlAlchemy, PostgreSQL, Docker, Linux, Nginx, Git, PostMan, Pytest
 <p>
 
 <h3 align="left"><b>Связаться со мной:</b></h3>
