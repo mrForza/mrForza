@@ -4,15 +4,11 @@
 </br>
 
 <h3 align="left"><b>Мой стэк технологий:</b></h3>
-<a href="https://t.me/R_Gromov" target="_blank" rel="noreferrer"> <img src="assets/python_icon.png" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://t.me/R_Gromov" target="_blank" rel="noreferrer"> <img src="assets/c-sharp.png" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://t.me/R_Gromov" target="_blank" rel="noreferrer"> <img src="assets/asp-dot-net.png" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://t.me/R_Gromov" target="_blank" rel="noreferrer"> <img src="assets/fast-api.png" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://t.me/R_Gromov" target="_blank" rel="noreferrer"> <img src="assets/django.png" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://t.me/R_Gromov" target="_blank" rel="noreferrer"> <img src="assets/postgres-sql.png" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://t.me/R_Gromov" target="_blank" rel="noreferrer"> <img src="assets/docker.png" alt="bootstrap" width="40" height="40"/></a><a href="https://t.me/R_Gromov" target="_blank" rel="noreferrer"> <img src="assets/nginx.png" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://t.me/R_Gromov" target="_blank" rel="noreferrer"> <img src="assets/linux.png" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://t.me/R_Gromov" target="_blank" rel="noreferrer"> <img src="assets/git.png" alt="bootstrap" width="40" height="40"/></a>
+
+
+| Python | FastAPI | PostgreSQL | SqlAlchemy | Redis | RabbitMQ | Git | GitLab | Docker | Postman |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| <img src="assets/python-original.svg" width="40" height="40"/> | <img src="assets/fastapi-original.svg" width="40" height="40"/> | <img src="assets/postgresql-original.svg" width="40" height="40"/> | <img src="assets/sqlalchemy-original.svg" width="40" height="40"/> | <img src="assets/redis-original.svg" width="40" height="40"/> | <img src="assets/rabbitmq-original.svg" width="40" height="40"/> | <img src="assets/git-original.svg" width="40" height="40"/> | <img src="assets/gitlab-original.svg" width="40" height="40"/> | <img src="assets/docker-original.svg" width="40" height="40"/> | <img src="assets/postman-original.svg" width="40" height="40"/> |
 
 </br>
 
