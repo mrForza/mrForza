@@ -25,12 +25,13 @@
 </br>
 
 Проект | Технологии | Описание | 
---- | --- | --- | 
+--- | --- | --- |
+RestaurantApp | Kotlin, Spring Web, Spring Security, Sqlite, Hibernate, JPA, Docker, Postman | Микросервисное приложение по заказу различных блюд в различных ресторанах (станциях). Приложение состоит из двух микросервисов: Authorization (user) service, Order service. Оба сервиса реализованы с использованием чистой архитектуры и принципов DDD. https://github.com/mrForza/Kotlin-IHW4
 Foodgram project | Python, Django(DRF, ORM), PostgreSQL, Docker, Postman, REST API | Вебсайт, на котором пользователи могут публиковать рецепты, добавлять чужие рецепты в избранное и подписываться на публикации других авторов. https://github.com/mrForza/Foodgram
-WinTerminal | C#, .Net | Консольное приложение - аналог терминала Linux, с помощью которого можно взаимодействовать с файловой системой, удалять, создавать, читать файлы, выводить деревья директорий, а также открывать картинки в ASCII формате. https://github.com/mrForza/WinTerm
+WinTerminal | C#, .Net | Аналог терминала Linux, с помощью которого можно взаимодействовать с файловой системой, удалять, создавать, читать файлы, выводить деревья директорий, а также открывать картинки в ASCII формате. https://github.com/mrForza/WinTerm
 YandexMdb | Python, Django(DRF, ORM), SQLite, REST API| **Командный проект**. Веб платформа для публикации произведений. Сервис позволяет добавлять, модифицировать и удалять различные жанры, категории, произведения, отзывы и комментарии к ним по средствам API. https://github.com/mrForza/api_yamdb
 Weather Project | C#, .Net, CSV, Excel | Кросс платформенное приложение, позволяющее получать статистику погодных условий по загружаемому CSV файлу согласно спецификации. https://github.com/mrForza/weather_project
-Korovushkino Project | Python 3.6.2, Selenium, python-telegram-bot | Сервис, который считывает информацию о новых заказах с CRM системы интернет магазина Korovushkino и передаёт её в телеграм бот администраторам и продавцам портала. https://github.com/mrForza/korovushkino_project | 
+Korovushkino Project | Python 3.6.2, Selenium, python-telegram-bot | Приложение, которое считывает информацию о новых заказах с CRM системы интернет магазина Korovushkino и передаёт её в телеграм бот администраторам и продавцам портала. https://github.com/mrForza/korovushkino_project | 
 
 </br>
 
