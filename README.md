@@ -26,6 +26,7 @@
 
 Проект | Технологии | Описание | 
 --- | --- | --- |
+VK Internship Tarantool App | Python, FastAPI, Asynctnt, Tarantool, PyJWT, Git, Docker, Postman, Lua | Микросервисное приложени, представляющее из себя API интерфейс к key-value хранилищу Tarantool. Пользователю доступна регистрация и аутентификация на сервере, а также чтение и добавление пар ключ-значение в бд. https://github.com/mrForza/VK-Internship-Tarantool-App
 RestaurantApp | Kotlin, Spring Web, Spring Security, Sqlite, Hibernate, JPA, Docker, Postman | Микросервисное приложение по заказу различных блюд в различных ресторанах (станциях). Приложение состоит из двух микросервисов: Authorization (user) service, Order service. Оба сервиса реализованы с использованием чистой архитектуры и принципов DDD. https://github.com/mrForza/Kotlin-IHW4
 Foodgram project | Python, Django(DRF, ORM), PostgreSQL, Docker, Postman, REST API | Вебсайт, на котором пользователи могут публиковать рецепты, добавлять чужие рецепты в избранное и подписываться на публикации других авторов. https://github.com/mrForza/Foodgram
 WinTerminal | C#, .Net | Аналог терминала Linux, с помощью которого можно взаимодействовать с файловой системой, удалять, создавать, читать файлы, выводить деревья директорий, а также открывать картинки в ASCII формате. https://github.com/mrForza/WinTerm
