@@ -52,3 +52,28 @@ RISC_V Cross Compiler | Small C, RISC_V Assembler, Makefile, CMake| **Курсо
 --- | --- | --- | --- |
 PySparkApp | Python, Sql, pyspark | MindBox | Написать приложение на Python с использованием библиотеки pyspark, которое обрабатывает 2 csv файла (products.csv и categories.csv) и получают информацию о всех продуктах с указанными категориями и без категорий. https://github.com/mrForza/PySparkApp
 GeometryApp | C# .NET Core, NUnit | MindBox |  Разработать библиотеку классов и консольное приложение на языке C# в котором пользователь сможет создавать различные геометрические фигуры, а также получать различную информацию (площадь, периметр, и т.д.) об этих фигурах. Обязательно нужно написать тесты к созданной библиотеке классов. https://github.com/mrForza/GeometryApp
+
+<div class="box"></div>
+
+<style>
+    .box {
+        background-color: rebeccapurple;
+        border-radius: 10px;
+        width: 100px;
+        height: 100px;
+    }
+
+    .box:hover {
+        animation-name: rotate;
+        animation-duration: 0.7s;
+    }
+
+    @keyframes rotate {
+        0% {
+            transform: rotate(0);
+        }
+        100% {
+            transform: rotate(360deg);
+        }
+    }
+</style>
